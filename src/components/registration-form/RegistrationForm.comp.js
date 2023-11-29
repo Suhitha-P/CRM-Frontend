@@ -12,11 +12,11 @@ import { newUserRegistration } from "./userRegAction";
 import { useDispatch, useSelector } from "react-redux";
 
 const initialState = {
-  name: "Prem Acharya",
+  name: "Suhitha",
   phone: "0410000000",
   email: "fakeemail@email.com",
-  company: "Dented Code",
-  address: "George st Sydney",
+  company: "ABC",
+  address: "India",
   password: "sfsd#3Dsg",
   confirmPass: "sfsd#3Dsg",
 };
